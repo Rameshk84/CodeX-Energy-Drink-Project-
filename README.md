@@ -1,5 +1,6 @@
 # CodeX_Energy_Drink
 ![Pink and White Healthy Drinks Facebook Feed Ad](https://github.com/user-attachments/assets/fc00a791-0856-43ca-b7be-1162d32fb07d)
+![Screenshot (491)](https://github.com/user-attachments/assets/eec27c14-51d4-4b58-8955-104d4c9478e1)
 
 This is Challenge 6, organized by Codebasics in the food and beverage domain.
 This project focuses on analyzing the data obtained from a survey conducted by CodeX energy dirnk. The objective is to extract key findings and provide relevant recommendations to CodeX, a German beverage company that recently launched in India in 10 cities.
