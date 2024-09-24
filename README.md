@@ -48,6 +48,9 @@ Based on the analysis conducted, the following results and recommendations are m
 
 By implementing these recommendations, CodeX can effectively grow its brand, improve sales, and capture a significant share of the market.
 
+What I Learned 🌱
+Working on the CodeX project, I gained insights into diverse marketing strategies and their impact on customer engagement, brand awareness, and growth. I connected SQL database to Power BI, ensuring validated data, and offered enhanced marketing strategies for informed decision-making.
+
 Note: I Made this project With the help of codeBasics YT channel
 they started Resume project Challenge
 Gatherd there data,business Questions and made this project
